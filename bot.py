@@ -1,7 +1,7 @@
 
 import telebot, json
 from telebot import types
-BOT_TOKEN = 8811746170:AAHcrbuawslcA0-iWL7a2-o4xeHjf33i6Wo
+BOT_TOKEN = 8811746170:AAEB7_YAG-g6v1B61nX_Hd2MqiyZH-xSJPY
 bot = telebot.TeleBot(BOT_TOKEN)
 
 try:
